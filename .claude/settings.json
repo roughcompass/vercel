@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest agent-gov --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --no-git)",
+      "Read(//Users/martinmarzejon/dev/vercel/$HOME/.volta/**)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//usr/local/bin/**)",
+      "Read(//usr/local/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/martinmarzejon/dev/vercel",
+      "/Users/martinmarzejon/dev"
+    ]
+  }
+}
